@@ -1,0 +1,64 @@
+---- qbsp / ericw-tools v0.18.1-32-g6660c5f ----
+Input file: Shad_DM1.map
+Output file: Shad_DM1.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+          126 faces
+           21 brushes
+            2 entities
+            1 unique texnames
+            6 texinfo
+
+Opened WAD: E:/My_Workspace/quakedev/wad/START.WAD
+Processing hull 0...
+---- Brush_LoadEntity ----
+           21 brushes
+           43 planes
+---- CSGFaces ----
+          126 brushfaces
+          111 csgfaces
+          102 mergedfaces
+---- SolidBSP ----
+          133 split nodes
+           32 solid leafs
+          102 empty leafs
+            0 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+          202 leaffaces
+          201 nodefaces
+---- Portalize ----
+          102 vis leafs
+          102 vis clusters
+          286 vis portals
+---- FillOutside ----
+*** WARNING 10: Reached occupant at (304 -160 40), no filling performed.
+Leak file written to Shad_DM1.pts
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
+Processing hull 2...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
+---- WriteBSPFile ----
+Wrote Shad_DM1.bsp
+          115 planes             2300
+          256 vertexes           3072
+          133 nodes              3192
+            6 texinfo             240
+          201 faces              4020
+          261 clipnodes          2088
+          103 leafs              2884
+          202 marksurfaces        404
+          804 surfedges          3216
+          507 edges              2028
+            1 textures           5936
+              lightdata             0
+              visdata               0
+              entdata             173
+
+0.060 seconds elapsed
+Peak memory usage: 1297884 (1.2M)

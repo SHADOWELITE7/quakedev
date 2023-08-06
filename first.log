@@ -1,0 +1,64 @@
+---- qbsp / ericw-tools v0.18.1-32-g6660c5f ----
+Input file: first.map
+Output file: first.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+         1155 faces
+          214 brushes
+            2 entities
+            1 unique texnames
+          441 texinfo
+
+Opened WAD: E:/My_Workspace/quakedev/wad/START.WAD
+Processing hull 0...
+---- Brush_LoadEntity ----
+          214 brushes
+          181 planes
+---- CSGFaces ----
+         1155 brushfaces
+          990 csgfaces
+          924 mergedfaces
+---- SolidBSP ----
+          931 split nodes
+          333 solid leafs
+          599 empty leafs
+            0 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         1549 leaffaces
+         1520 nodefaces
+---- Portalize ----
+          599 vis leafs
+          599 vis clusters
+         1546 vis portals
+---- FillOutside ----
+*** WARNING 10: Reached occupant at (480 208 24), no filling performed.
+Leak file written to first.pts
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
+Processing hull 2...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
+---- WriteBSPFile ----
+Wrote first.bsp
+          540 planes            10800
+         1804 vertexes          21648
+          931 nodes             22344
+          367 texinfo           14680
+         1520 faces             30400
+         1665 clipnodes         13320
+          600 leafs             16800
+         1549 marksurfaces       3098
+         5879 surfedges         23516
+         4456 edges             17824
+            1 textures           5936
+              lightdata             0
+              visdata               0
+              entdata             172
+
+0.129 seconds elapsed
+Peak memory usage: 9823206 (9.4M)

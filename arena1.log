@@ -1,0 +1,66 @@
+---- qbsp / ericw-tools v0.18.1-32-g6660c5f ----
+Input file: arena1.map
+Output file: arena1.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+          916 faces
+          155 brushes
+            2 entities
+            1 unique texnames
+           23 texinfo
+
+Opened WAD: E:/My_Workspace/quakedev/wad/START.WAD
+Opened WAD: E:/My_Workspace/quakedev/wad/prototype_1_2.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+          155 brushes
+          175 planes
+---- CSGFaces ----
+          916 brushfaces
+          678 csgfaces
+          437 mergedfaces
+---- SolidBSP ----
+          709 split nodes
+          277 solid leafs
+          433 empty leafs
+            0 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         2840 leaffaces
+         2757 nodefaces
+---- Portalize ----
+          433 vis leafs
+          433 vis clusters
+         1146 vis portals
+---- FillOutside ----
+*** WARNING 10: Reached occupant at (-848 1008 376), no filling performed.
+Leak file written to arena1.pts
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
+Processing hull 2...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
+*** WARNING 16: Texture __TB_empty not found
+---- WriteBSPFile ----
+Wrote arena1.bsp
+          360 planes             7200
+         3429 vertexes          41148
+          709 nodes             17016
+           18 texinfo             720
+         2757 faces             55140
+         1458 clipnodes         11664
+          434 leafs             12152
+         2840 marksurfaces       5680
+        11020 surfedges         44080
+         6705 edges             26820
+            1 textures              8
+              lightdata             0
+              visdata               0
+              entdata             204
+
+0.107 seconds elapsed
+Peak memory usage: 11430204 (10.9M)
