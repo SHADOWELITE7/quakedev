@@ -4,36 +4,36 @@ Output file: arena2.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-            6 faces
-            1 brushes
+          132 faces
+           22 brushes
             2 entities
             1 unique texnames
-            6 texinfo
+           12 texinfo
 
 *** WARNING 00: No wad or _wad key exists in the worldmodel
 Processing hull 0...
 ---- Brush_LoadEntity ----
-            1 brushes
-            6 planes
+           22 brushes
+           33 planes
 ---- CSGFaces ----
-            6 brushfaces
-            6 csgfaces
-            6 mergedfaces
+          132 brushfaces
+          106 csgfaces
+           79 mergedfaces
 ---- SolidBSP ----
-            6 split nodes
-            1 solid leafs
-            6 empty leafs
+          145 split nodes
+           48 solid leafs
+           98 empty leafs
             0 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-            6 leaffaces
-            6 nodefaces
+          210 leaffaces
+          196 nodefaces
 ---- Portalize ----
-            6 vis leafs
-            6 vis clusters
-           12 vis portals
+           98 vis leafs
+           98 vis clusters
+          232 vis portals
 ---- FillOutside ----
 *** WARNING 10: Reached occupant at (8 0 40), no filling performed.
 Leak file written to arena2.pts
@@ -46,20 +46,20 @@ Processing hull 2...
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote arena2.bsp
-           17 planes              340
-            8 vertexes             96
-            6 nodes               144
-            6 texinfo             240
-            6 faces               120
-           12 clipnodes            96
-            7 leafs               196
-            6 marksurfaces         12
-           24 surfedges            96
-           13 edges                52
+           96 planes             1920
+          239 vertexes           2868
+          145 nodes              3480
+           12 texinfo             480
+          196 faces              3920
+          259 clipnodes          2072
+           99 leafs              2772
+          210 marksurfaces        420
+          784 surfedges          3136
+          492 edges              1968
             1 textures              8
               lightdata             0
               visdata               0
-              entdata             103
+              entdata             133
 
-0.008 seconds elapsed
-Peak memory usage: 53948 (52.7k)
+0.041 seconds elapsed
+Peak memory usage: 1221256 (1.2M)
