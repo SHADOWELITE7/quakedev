@@ -18,7 +18,7 @@ echo --------------VIS---------------
 E:\My_Workspace\quakedev\tools\ericw-tools-v0.18.1-32-g6660c5f-win64\bin\vis.exe arena2
 
 echo -------------LIGHT--------------
-E:\My_Workspace\quakedev\tools\ericw-tools-v0.18.1-32-g6660c5f-win64\bin\light.exe -debug arena2
+E:\My_Workspace\quakedev\tools\ericw-tools-v0.18.1-32-g6660c5f-win64\bin\light.exe arena2
 
 copy arena2.bsp E:\My_Workspace\quakedev\id1\maps
 copy arena2.pts E:\My_Workspace\quakedev\id1\maps
