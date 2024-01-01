@@ -1,16 +1,16 @@
 ---- light / ericw-tools v0.18.1-32-g6660c5f ----
 Raytracing backend: Embree
 running with 32 threads
-LoadBSPFile: 'arena2.bsp'
+LoadBSPFile: 'shad_dm2.bsp'
 BSP is version 29
-SetQdirFromPath: no "maps" in 'E:\My_Workspace\quakedev\/arena2.bsp'--- ConvertTextures ---
+SetQdirFromPath: no "maps" in 'E:\My_Workspace\quakedev\/shad_dm2.bsp'--- ConvertTextures ---
 --- LoadEntities ---
 2 entities read, 0 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	877 solid faces
+	51 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -26,8 +26,8 @@ Lighting Completed.
 
 lightdatasize: 0
 0 switchable light styles (32 max)
-Writing arena2.bsp as BSP version 29
-0.043 seconds elapsed
+Writing shad_dm2.bsp as BSP version 29
+0.027 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point

@@ -1,7 +1,7 @@
 ---- vis / ericw-tools v0.18.1-32-g6660c5f ----
 running with 32 threads
 testlevel = 4
-LoadBSPFile: 'arena2.bsp'
+LoadBSPFile: 'shad_dm2.bsp'
 BSP is version 29
-LoadPortals: couldn't read arena2.prt
+LoadPortals: couldn't read shad_dm2.prt
 No vising performed.
