@@ -3,5 +3,15 @@ running with 32 threads
 testlevel = 4
 LoadBSPFile: 'shad_dm2.bsp'
 BSP is version 29
-LoadPortals: couldn't read shad_dm2.prt
-No vising performed.
+     4 leafs
+     4 portals
+Calculating Base Vis:
+0....1....2....3....4....5....6....7....8...
+Calculating Full Vis:
+0....1....2....3....4....5....6....7....8...
+average leafs visible: 3
+c_noclip: 0
+c_chains: 12
+visdatasize:4  compressed from 4
+Writing shad_dm2.bsp as BSP version 29
+  0.0 seconds elapsed
