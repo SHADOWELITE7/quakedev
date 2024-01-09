@@ -4,59 +4,59 @@ Output file: shad_dm2.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-           42 faces
-            7 brushes
+           90 faces
+           15 brushes
             2 entities
             2 unique texnames
-           22 texinfo
+           51 texinfo
 
 Opened WAD: E:/My_Workspace/quakedev/wad/START.WAD
 Processing hull 0...
 ---- Brush_LoadEntity ----
-            7 brushes
-           17 planes
+           15 brushes
+           30 planes
 ---- CSGFaces ----
-           42 brushfaces
-           34 csgfaces
-           28 mergedfaces
+           90 brushfaces
+           68 csgfaces
+           55 mergedfaces
 ---- SolidBSP ----
-           44 split nodes
-           13 solid leafs
-           32 empty leafs
+           89 split nodes
+           32 solid leafs
+           58 empty leafs
             0 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-          502 leaffaces
-          502 nodefaces
+          602 leaffaces
+          584 nodefaces
 ---- Portalize ----
-           32 vis leafs
-           32 vis clusters
-           74 vis portals
+           58 vis leafs
+           58 vis clusters
+          139 vis portals
 ---- FillOutside ----
-           28 outleafs
+           46 outleafs
 ---- MergeAll ----
-           16 mergefaces
+           45 mergefaces
 ---- SolidBSP ----
-           16 split nodes
-           13 solid leafs
-            4 empty leafs
+           40 split nodes
+           29 solid leafs
+           12 empty leafs
             0 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-          212 leaffaces
-          212 nodefaces
+          273 leaffaces
+          239 nodefaces
 ---- Portalize ----
-            4 vis leafs
-            4 vis clusters
-            4 vis portals
+           12 vis leafs
+           12 vis clusters
+           21 vis portals
 ---- Tjunc ----
-          100 world edges
-          560 edge points
-           72 edges added by tjunctions
+          141 world edges
+          683 edge points
+          120 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -64,23 +64,22 @@ Processing hull 1...
 *** WARNING 19: No entities in empty space -- no filling performed (hull 1)
 Processing hull 2...
 *** WARNING 19: No entities in empty space -- no filling performed (hull 2)
-*** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote shad_dm2.bsp
-           37 planes              740
-          248 vertexes           2976
-           16 nodes               384
-           10 texinfo             400
-          212 faces              4240
-           84 clipnodes           672
-            5 leafs               140
-          212 marksurfaces        424
-          920 surfedges          3680
-          461 edges              1844
-            2 textures           5940
+           71 planes             1420
+          301 vertexes           3612
+           40 nodes               960
+           27 texinfo            1080
+          239 faces              4780
+          170 clipnodes          1360
+           13 leafs               364
+          273 marksurfaces        546
+         1076 surfedges          4304
+          539 edges              2156
+            2 textures          11868
               lightdata             0
               visdata               0
-              entdata             151
+              entdata             155
 
-0.024 seconds elapsed
-Peak memory usage: 1019176 (1.0M)
+0.051 seconds elapsed
+Peak memory usage: 1254970 (1.2M)

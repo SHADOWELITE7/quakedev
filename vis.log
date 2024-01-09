@@ -3,15 +3,18 @@ running with 32 threads
 testlevel = 4
 LoadBSPFile: 'shad_dm2.bsp'
 BSP is version 29
-     4 leafs
-     4 portals
+    12 leafs
+    21 portals
 Calculating Base Vis:
-0....1....2....3....4....5....6....7....8...
+0....1....2....3....4....5....6....7....8....9...
 Calculating Full Vis:
-0....1....2....3....4....5....6....7....8...
-average leafs visible: 3
+0....1....2....3....4....5....6....7....8....9...
+WARNING: Leaf portals saw into leaf (7)
+WARNING: Leaf portals saw into leaf (8)
+WARNING: Leaf portals saw into leaf (11)
+average leafs visible: 11
 c_noclip: 0
-c_chains: 12
-visdatasize:4  compressed from 4
+c_chains: 505
+visdatasize:24  compressed from 24
 Writing shad_dm2.bsp as BSP version 29
   0.0 seconds elapsed
