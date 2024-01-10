@@ -1,1 +1,4 @@
 noclip
+impulse 9
+god
+impulse 9
