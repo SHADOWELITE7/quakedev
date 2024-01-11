@@ -26,4 +26,4 @@ copy shad_dm2.lit E:\My_Workspace\quakedev\id1\maps
 pause
 cd\
 cd E:\My_Workspace\quakedev
-ironwail  +map shad_dm2
+ironwail god +map shad_dm2

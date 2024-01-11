@@ -5,32 +5,35 @@ LoadBSPFile: 'shad_dm2.bsp'
 BSP is version 29
 SetQdirFromPath: no "maps" in 'E:\My_Workspace\quakedev\/shad_dm2.bsp'--- ConvertTextures ---
 --- LoadEntities ---
-5 entities read, 0 are lights.
+WARNING: entity at () (worldspawn) has empty key/value "light" ""
+WARNING: couldn't parse '' as number for key 'light'
+22 entities read, 3 are lights.
 --- OptionsSummary ---
+    "light" was set to "0" from map
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	467 solid faces
+	444 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 0 initial lights
-SetupLights: 0 after surface lights
-SetupLights: 0 after jittering
+SetupLights: 3 initial lights
+SetupLights: 3 after surface lights
+SetupLights: 3 after jittering
 --- EstimateLightVisibility ---
-
-Final count: 0 lights, 0 suns in use.
+0....1....2....3....4....5....6...
+Final count: 3 lights, 0 suns in use.
 --- LightWorld ---
 --- LightThread ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 0
+lightdatasize: 50004
 0 switchable light styles (32 max)
 Writing shad_dm2.bsp as BSP version 29
-0.044 seconds elapsed
+0.048 seconds elapsed
 
 stats:
-0.000000 lights tested, 0.000000 hits per sample point
+1.285847 lights tested, 0.968141 hits per sample point
 0.000000 surface lights tested, 0.000000 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps

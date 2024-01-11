@@ -4,3 +4,20 @@ god
 impulse 9
 god
 noclip
+god
+impules 9
+impulse 9
+respawn
+god
+fly
+noclip
+inpulse 9
+impulse 9
+god
+impulse 9
+god
+fly
+impulse 9
+god
+impulse 9
+noclip
