@@ -5,25 +5,25 @@ cd E:\My_Workspace\quakedev
 
 
 echo Copying Files...
-copy E:\My_Workspace\quakedev\working\shad_dm2.map E:\My_Workspace\quakedev
+copy E:\My_Workspace\quakedev\working\singleplayer_map1.map E:\My_Workspace\quakedev
 
 
 echo Converting map...
 
 
 echo --------------QBSP--------------
-E:\My_Workspace\quakedev\tools\ericw-tools-v0.18.1-32-g6660c5f-win64\bin\qbsp.exe shad_dm2
+E:\My_Workspace\quakedev\tools\ericw-tools-v0.18.1-32-g6660c5f-win64\bin\qbsp.exe singleplayer_map1
 
 echo --------------VIS---------------
-E:\My_Workspace\quakedev\tools\ericw-tools-v0.18.1-32-g6660c5f-win64\bin\vis.exe shad_dm2
+E:\My_Workspace\quakedev\tools\ericw-tools-v0.18.1-32-g6660c5f-win64\bin\vis.exe singleplayer_map1
 
 echo -------------LIGHT--------------
-E:\My_Workspace\quakedev\tools\ericw-tools-v0.18.1-32-g6660c5f-win64\bin\light.exe shad_dm2
+E:\My_Workspace\quakedev\tools\ericw-tools-v0.18.1-32-g6660c5f-win64\bin\light.exe singleplayer_map1
 
-copy shad_dm2.bsp E:\My_Workspace\quakedev\id1\maps
-copy shad_dm2.pts E:\My_Workspace\quakedev\id1\maps
-copy shad_dm2.lit E:\My_Workspace\quakedev\id1\maps
+copy singleplayer_map1.bsp E:\My_Workspace\quakedev\id1\maps
+copy singleplayer_map1.pts E:\My_Workspace\quakedev\id1\maps
+copy singleplayer_map1.lit E:\My_Workspace\quakedev\id1\maps
 pause
 cd\
 cd E:\My_Workspace\quakedev
-ironwail god +map shad_dm2
+ironwail god +map singleplayer_map1
