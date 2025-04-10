@@ -11,10 +11,14 @@
             "id": "1d5173fd965ce2d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Singleplayer/maps/singleplayer map 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "singleplayer map 1"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0b361a3174b9314d",
@@ -161,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0cee6830baccdf8",
+  "active": "1d5173fd965ce2d1",
   "lastOpenFiles": [
     "Singleplayer/maps/singleplayer map 1.md",
     "Singleplayer/singleplayer maps.md",
