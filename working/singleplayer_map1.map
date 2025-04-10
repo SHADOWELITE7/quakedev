@@ -3,8 +3,9 @@
 // entity 0
 {
 "mapversion" "220"
-"wad" ""
+"wad" "E:\My_Workspace\quakedev\wad\prototype_1_2.wad;E:\My_Workspace\quakedev\wad\START.WAD"
 "classname" "worldspawn"
+"_tb_textures" "START.WAD;prototype_1_2.wad"
 // brush 0
 {
 ( -64 -64 -16 ) ( -64 -63 -16 ) ( -64 -64 -15 ) __TB_empty [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
