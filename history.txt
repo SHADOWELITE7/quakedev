@@ -21,3 +21,4 @@ impulse 9
 god
 impulse 9
 noclip
+god

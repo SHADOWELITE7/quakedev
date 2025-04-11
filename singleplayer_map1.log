@@ -3,61 +3,72 @@ Input file: singleplayer_map1.map
 Output file: singleplayer_map1.bsp
 
 ---- LoadMapFile ----
+line 6: Unrecognised string escape - \M
+line 6: Unrecognised string escape - \q
+line 6: Unrecognised string escape - \w
+line 6: Unrecognised string escape - \p
+line 6: Unrecognised string escape - \M
+line 6: Unrecognised string escape - \q
+line 6: Unrecognised string escape - \w
+line 6: Unrecognised string escape - \S
 *** WARNING 06: No info_player_deathmatch entities in level
-          326 faces
-           54 brushes
-           26 entities
-            1 unique texnames
-            7 texinfo
+          356 faces
+           59 brushes
+           22 entities
+            2 unique texnames
+           13 texinfo
 
-*** WARNING 00: No wad or _wad key exists in the worldmodel
+Opened WAD: E:\My_Workspace\quakedev\wad\prototype_1_2.wad
+Opened WAD: E:\My_Workspace\quakedev\wad\START.WAD
 Processing hull 0...
 ---- Brush_LoadEntity ----
-           54 brushes
-           66 planes
+           59 brushes
+          100 planes
 ---- CSGFaces ----
-          326 brushfaces
-          255 csgfaces
-          174 mergedfaces
+          356 brushfaces
+          364 csgfaces
+          298 mergedfaces
 ---- SolidBSP ----
-          316 split nodes
-          113 solid leafs
-          204 empty leafs
-            0 water leafs
+          457 split nodes
+          157 solid leafs
+          281 empty leafs
+           20 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-          534 leaffaces
-          502 nodefaces
+          860 leaffaces
+          775 nodefaces
 ---- Portalize ----
-          204 vis leafs
-          204 vis clusters
-          540 vis portals
+          301 vis leafs
+          301 vis clusters
+          882 vis portals
 ---- FillOutside ----
-*** WARNING 10: Reached occupant at (-624 -204 52), no filling performed.
+*** WARNING 10: Reached occupant at (-552 -212 -304), no filling performed.
 Leak file written to singleplayer_map1.pts
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
+*** WARNING 10: Reached occupant at (-552 -212 -304), no filling performed.
 Processing hull 2...
+*** WARNING 10: Reached occupant at (-552 -212 -304), no filling performed.
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote singleplayer_map1.bsp
-          101 planes             2020
-          620 vertexes           7440
-          316 nodes              7584
-            7 texinfo             280
-          502 faces             10040
-           66 clipnodes           528
-          205 leafs              5740
-          534 marksurfaces       1068
-         2006 surfedges          8024
-         1299 edges              5196
-            1 textures              8
+          234 planes             4680
+          911 vertexes          10932
+          457 nodes             10968
+            9 texinfo             360
+          775 faces             15500
+          747 clipnodes          5976
+          302 leafs              8456
+          860 marksurfaces       1720
+         3098 surfedges         12392
+         2045 edges              8180
+            2 textures           5940
               lightdata             0
               visdata               0
-              entdata            1502
+              entdata            1531
 
-0.081 seconds elapsed
-Peak memory usage: 2888404 (2.8M)
+0.088 seconds elapsed
+Peak memory usage: 3914020 (3.7M)
