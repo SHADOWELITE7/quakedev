@@ -68,7 +68,7 @@ Wrote singleplayer_map1.bsp
             2 textures           5940
               lightdata             0
               visdata               0
-              entdata            3025
+              entdata            3002
 
-0.114 seconds elapsed
-Peak memory usage: 4883208 (4.7M)
+0.116 seconds elapsed
+Peak memory usage: 4883184 (4.7M)
