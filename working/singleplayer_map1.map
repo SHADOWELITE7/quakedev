@@ -638,3 +638,11 @@
 "classname" "weapon_nailgun"
 "origin" "-952 141 -320"
 }
+// entity 22
+{
+"classname" "func_group"
+"_tb_type" "_tb_layer"
+"_tb_name" "Layer 2"
+"_tb_id" "1"
+"_tb_layer_sort_index" "0"
+}
