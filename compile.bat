@@ -26,4 +26,4 @@ copy singleplayer_map1.lit E:\My_Workspace\quakedev\id1\maps
 pause
 cd\
 cd E:\My_Workspace\quakedev
-ironwail  +map singleplayer_map1
+ironwail god +map singleplayer_map1
