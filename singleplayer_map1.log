@@ -12,9 +12,9 @@ line 6: Unrecognised string escape - \q
 line 6: Unrecognised string escape - \w
 line 6: Unrecognised string escape - \S
 *** WARNING 06: No info_player_deathmatch entities in level
-          410 faces
-           68 brushes
-           42 entities
+          428 faces
+           71 brushes
+           48 entities
             2 unique texnames
            13 texinfo
 
@@ -22,29 +22,29 @@ Opened WAD: E:\My_Workspace\quakedev\wad\prototype_1_2.wad
 Opened WAD: E:\My_Workspace\quakedev\wad\START.WAD
 Processing hull 0...
 ---- Brush_LoadEntity ----
-           68 brushes
-           85 planes
+           71 brushes
+           91 planes
 ---- CSGFaces ----
-          410 brushfaces
-          346 csgfaces
-          252 mergedfaces
+          428 brushfaces
+          366 csgfaces
+          270 mergedfaces
 ---- SolidBSP ----
-          492 split nodes
-          192 solid leafs
-          288 empty leafs
+          553 split nodes
+          213 solid leafs
+          328 empty leafs
            13 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-          970 leaffaces
-          927 nodefaces
+         1070 leaffaces
+         1023 nodefaces
 ---- Portalize ----
-          301 vis leafs
-          301 vis clusters
-          773 vis portals
+          341 vis leafs
+          341 vis clusters
+          873 vis portals
 ---- FillOutside ----
-*** WARNING 10: Reached occupant at (-364 116 -360), no filling performed.
+*** WARNING 10: Reached occupant at (276 -272 -92), no filling performed.
 Leak file written to singleplayer_map1.pts
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -55,20 +55,20 @@ Processing hull 2...
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote singleplayer_map1.bsp
-          219 planes             4380
-         1096 vertexes          13152
-          492 nodes             11808
+          236 planes             4720
+         1223 vertexes          14676
+          553 nodes             13272
             8 texinfo             320
-          927 faces             18540
-          804 clipnodes          6432
-          302 leafs              8456
-          970 marksurfaces       1940
-         3706 surfedges         14824
-         2338 edges              9352
+         1023 faces             20460
+          880 clipnodes          7040
+          342 leafs              9576
+         1070 marksurfaces       2140
+         4090 surfedges         16360
+         2603 edges             10412
             2 textures           5940
               lightdata             0
               visdata               0
-              entdata            2603
+              entdata            3025
 
-0.109 seconds elapsed
-Peak memory usage: 4480768 (4.3M)
+0.114 seconds elapsed
+Peak memory usage: 4883208 (4.7M)
