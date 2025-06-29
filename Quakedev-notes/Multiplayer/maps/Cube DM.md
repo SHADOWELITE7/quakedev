@@ -1,6 +1,6 @@
 ## Todo List
 - [x] Make a floor plan
 - [x] make walls
-- [ ] make ceiling
+- [x] make ceiling
 - [ ] make platforms
 - [ ] 
