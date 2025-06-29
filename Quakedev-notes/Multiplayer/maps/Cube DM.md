@@ -3,4 +3,6 @@
 - [x] make walls
 - [x] make ceiling
 - [ ] make platforms
+	- [x] Platforms above the floor
+	- [ ] 
 - [ ] 
