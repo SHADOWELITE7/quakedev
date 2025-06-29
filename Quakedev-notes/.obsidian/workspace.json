@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Singleplayer/Singleplayer maps.md",
+                "file": "Multiplayer/maps/Cube DM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Singleplayer maps"
+              "title": "Cube DM"
             }
           }
         ]
@@ -167,10 +167,10 @@
   },
   "active": "1d5173fd965ce2d1",
   "lastOpenFiles": [
+    "Singleplayer/Singleplayer maps.md",
     "Multiplayer/maps/Cube DM.md",
     "Multiplayer/Multiplayer maps.md",
     "Home.md",
-    "Singleplayer/Singleplayer maps.md",
     "Singleplayer/maps/singleplayer map 1.md",
     "Multiplayer/maps",
     "Singleplayer/maps",

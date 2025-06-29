@@ -1,3 +1,3 @@
 ## Todo List
-- [ ] Make a floor plan
+- [x] Make a floor plan
 - [ ] 

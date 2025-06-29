@@ -1,7 +1,7 @@
 ---- vis / ericw-tools v0.18.1-32-g6660c5f ----
 running with 32 threads
 testlevel = 4
-LoadBSPFile: 'singleplayer_map1.bsp'
+LoadBSPFile: 'cube_dm.bsp'
 BSP is version 29
-LoadPortals: couldn't read singleplayer_map1.prt
+LoadPortals: couldn't read cube_dm.prt
 No vising performed.
