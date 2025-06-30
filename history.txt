@@ -23,3 +23,6 @@ impulse 9
 noclip
 god
 map singleplayer map 1
+god
+impulse9
+impulse 9
