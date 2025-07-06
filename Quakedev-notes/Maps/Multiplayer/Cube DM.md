@@ -10,6 +10,7 @@
 	- [x] Floor
 	- [x] Walls
 	- [x] Ceiling
+	- [ ] add triggers
 - [ ] 
 
 # Issues

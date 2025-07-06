@@ -14,7 +14,7 @@ line 6: Unrecognised string escape - \S
 *** WARNING 06: No info_player_deathmatch entities in level
           180 faces
            30 brushes
-           26 entities
+            2 entities
             2 unique texnames
            26 texinfo
 
@@ -87,7 +87,7 @@ Wrote cube_dm.bsp
             2 textures           5940
               lightdata             0
               visdata               0
-              entdata            1573
+              entdata             198
 
-0.110 seconds elapsed
-Peak memory usage: 4132872 (3.9M)
+0.156 seconds elapsed
+Peak memory usage: 4131720 (3.9M)
