@@ -27,7 +27,7 @@ Lighting Completed.
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing cube_dm.bsp as BSP version 29
-0.063 seconds elapsed
+0.067 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point

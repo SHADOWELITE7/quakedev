@@ -312,5 +312,4 @@
 {
 "classname" "info_teleport_destination"
 "origin" "-144 -412 796"
-"targetname" "trigger_teleport"
 }
