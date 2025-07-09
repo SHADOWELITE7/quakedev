@@ -12,11 +12,11 @@ line 6: Unrecognised string escape - \q
 line 6: Unrecognised string escape - \w
 line 6: Unrecognised string escape - \S
 *** WARNING 06: No info_player_deathmatch entities in level
-          192 faces
-           32 brushes
-            6 entities
+          186 faces
+           31 brushes
+            4 entities
             2 unique texnames
-           34 texinfo
+           30 texinfo
 
 Opened WAD: E:\My_Workspace\quakedev\wad\prototype_1_2.wad
 Opened WAD: E:\My_Workspace\quakedev\wad\START.WAD
@@ -74,20 +74,20 @@ Processing hull 2...
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote cube_dm.bsp
-          101 planes             2020
-          903 vertexes          10836
-          138 nodes              3312
-           21 texinfo             840
-          808 faces             16160
-          352 clipnodes          2816
-           88 leafs              2464
-          967 marksurfaces       1934
-         3622 surfedges         14488
-         1812 edges              7248
+           96 planes             1920
+          895 vertexes          10740
+          132 nodes              3168
+           17 texinfo             680
+          802 faces             16040
+          340 clipnodes          2720
+           82 leafs              2296
+          961 marksurfaces       1922
+         3598 surfedges         14392
+         1800 edges              7200
             2 textures           5940
               lightdata             0
               visdata               0
-              entdata             565
+              entdata             432
 
-0.108 seconds elapsed
-Peak memory usage: 3804676 (3.6M)
+0.106 seconds elapsed
+Peak memory usage: 3804580 (3.6M)

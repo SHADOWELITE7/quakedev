@@ -5,8 +5,7 @@ LoadBSPFile: 'cube_dm.bsp'
 BSP is version 29
 SetQdirFromPath: no "maps" in 'E:\My_Workspace\quakedev\working\/cube_dm.bsp'--- ConvertTextures ---
 --- LoadEntities ---
-WARNING: entity at (-469 -63 240) (info_teleport_destination) has empty key/value "targetname" ""
-6 entities read, 0 are lights.
+4 entities read, 0 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
@@ -28,7 +27,7 @@ Lighting Completed.
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing cube_dm.bsp as BSP version 29
-0.069 seconds elapsed
+0.066 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point
