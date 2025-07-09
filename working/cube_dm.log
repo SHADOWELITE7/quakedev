@@ -12,60 +12,60 @@ line 6: Unrecognised string escape - \q
 line 6: Unrecognised string escape - \w
 line 6: Unrecognised string escape - \S
 *** WARNING 06: No info_player_deathmatch entities in level
-          180 faces
-           30 brushes
-            2 entities
+          192 faces
+           32 brushes
+            4 entities
             2 unique texnames
-           26 texinfo
+           34 texinfo
 
 Opened WAD: E:\My_Workspace\quakedev\wad\prototype_1_2.wad
 Opened WAD: E:\My_Workspace\quakedev\wad\START.WAD
 Processing hull 0...
 ---- Brush_LoadEntity ----
            30 brushes
-           40 planes
+           39 planes
 ---- CSGFaces ----
           180 brushfaces
-          198 csgfaces
-          182 mergedfaces
+          187 csgfaces
+          176 mergedfaces
 ---- SolidBSP ----
-          553 split nodes
-          175 solid leafs
-          298 empty leafs
+          481 split nodes
+          159 solid leafs
+          242 empty leafs
            81 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         1934 leaffaces
-         1907 nodefaces
+         1786 leaffaces
+         1759 nodefaces
 ---- Portalize ----
-          379 vis leafs
-          379 vis clusters
-          963 vis portals
+          323 vis leafs
+          323 vis clusters
+          814 vis portals
 ---- FillOutside ----
-          191 outleafs
+          171 outleafs
 ---- MergeAll ----
-          174 mergefaces
+          168 mergefaces
 ---- SolidBSP ----
-          139 split nodes
-           59 solid leafs
-           57 empty leafs
+          126 split nodes
+           52 solid leafs
+           51 empty leafs
            24 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-          982 leaffaces
-          848 nodefaces
+          955 leaffaces
+          796 nodefaces
 ---- Portalize ----
-           81 vis leafs
-           81 vis clusters
-          266 vis portals
+           75 vis leafs
+           75 vis clusters
+          245 vis portals
 ---- Tjunc ----
-          372 world edges
-         2162 edge points
-          450 edges added by tjunctions
+          365 world edges
+         2068 edge points
+          390 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -74,20 +74,20 @@ Processing hull 2...
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote cube_dm.bsp
-           83 planes             1660
-          929 vertexes          11148
-          139 nodes              3336
-           13 texinfo             520
-          848 faces             16960
-          328 clipnodes          2624
-           82 leafs              2296
-          982 marksurfaces       1964
-         3842 surfedges         15368
-         1922 edges              7688
+          101 planes             2020
+          903 vertexes          10836
+          138 nodes              3312
+           21 texinfo             840
+          808 faces             16160
+          352 clipnodes          2816
+           88 leafs              2464
+          967 marksurfaces       1934
+         3622 surfedges         14488
+         1812 edges              7248
             2 textures           5940
               lightdata             0
               visdata               0
-              entdata             198
+              entdata             339
 
-0.156 seconds elapsed
-Peak memory usage: 4131720 (3.9M)
+0.102 seconds elapsed
+Peak memory usage: 3804508 (3.6M)

@@ -10,7 +10,11 @@
 	- [x] Floor
 	- [x] Walls
 	- [x] Ceiling
-	- [ ] add triggers
+	- [ ] add triggers for teleport
+		- [ ] Test Triggers
+			- [ ] Add Triggers for the floor
+			- [ ] Add Triggers for the Ceiling
+			- [ ] Add Triggers for the Left & Right Walls
 - [ ] 
 
 # Issues
