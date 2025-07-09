@@ -12,7 +12,7 @@
 	- [x] Ceiling
 		- [ ] add triggers for teleport
 			- [ ] Test Triggers
-			- [ ] Create Teleport Destination
+			- [ ] Create [[teleport_destination]]
 				- [ ] Add Triggers for the floor
 				- [ ] Add Triggers for the Ceiling
 				- [ ] Add Triggers for the Left & Right Walls

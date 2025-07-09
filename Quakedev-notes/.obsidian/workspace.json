@@ -165,10 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0cee6830baccdf8",
+  "active": "1d5173fd965ce2d1",
   "lastOpenFiles": [
-    "Issues/Teleport Triggers not working.md",
     "Maps/Multiplayer/Cube DM.md",
+    "Notes/teleport_destination.md",
+    "Notes",
+    "Untitled.md",
+    "Issues/Teleport Triggers not working.md",
     "Issues/Slipgates wont activate.md",
     "Issues",
     "Maps",
