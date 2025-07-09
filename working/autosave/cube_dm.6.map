@@ -285,7 +285,6 @@
 // entity 2
 {
 "classname" "trigger_teleport"
-"targetname" "info_teleport_destination"
 // brush 0
 {
 ( -976 1036 88 ) ( -976 1037 88 ) ( -976 1036 89 ) *teleport [ 0 -1 0 0 ] [ 0 0 -1 4 ] 90 1 1
@@ -314,10 +313,4 @@
 "classname" "info_teleport_destination"
 "origin" "-148 -415 796"
 "targetname" "trigger_teleport"
-}
-// entity 5
-{
-"classname" "info_teleport_destination"
-"origin" "-469 -63 240"
-"targetname" ""
 }

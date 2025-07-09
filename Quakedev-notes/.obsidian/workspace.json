@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Cube DM"
             }
+          },
+          {
+            "id": "3f0b0aef4b7ce684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/teleport_destination.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "teleport_destination"
+            }
           }
         ]
       }
@@ -167,8 +181,8 @@
   },
   "active": "1d5173fd965ce2d1",
   "lastOpenFiles": [
-    "Maps/Multiplayer/Cube DM.md",
     "Notes/teleport_destination.md",
+    "Maps/Multiplayer/Cube DM.md",
     "Notes",
     "Untitled.md",
     "Issues/Teleport Triggers not working.md",
