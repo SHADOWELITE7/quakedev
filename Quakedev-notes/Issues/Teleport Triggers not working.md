@@ -1,0 +1,1 @@
+I made a ``trigger_teleport`` and then copied the trigger brush to create another one for the ceiling. I compiled the map to test this and falling down to the pit to expect myself to teleport from the ceiling didn't work. 

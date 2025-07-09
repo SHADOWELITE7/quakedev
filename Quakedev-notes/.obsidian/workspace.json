@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0b361a3174b9314d",
@@ -167,8 +167,9 @@
   },
   "active": "f0cee6830baccdf8",
   "lastOpenFiles": [
-    "Issues/Slipgates wont activate.md",
+    "Issues/Teleport Triggers not working.md",
     "Maps/Multiplayer/Cube DM.md",
+    "Issues/Slipgates wont activate.md",
     "Issues",
     "Maps",
     "Singleplayer maps.md",
