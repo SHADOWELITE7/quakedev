@@ -26,3 +26,9 @@ map singleplayer map 1
 god
 impulse9
 impulse 9
+fly
+impulse 9
+fly
+god
+impulse 9
+fly
