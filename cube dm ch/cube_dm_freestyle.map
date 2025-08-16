@@ -957,6 +957,7 @@
 "classname" "info_teleport_destination"
 "origin" "-932 344 520"
 "targetname" "tdest03"
+"wad" "E:\My_Workspace\quakedev\wad\prototype_1_2.wad;E:\My_Workspace\quakedev\wad\START.WAD;C:\quake-leveldesign-workspace\wads\id1.wad;C:\quake-leveldesign-workspace\wads\prototype_all_1_3.wad;E:\My_Workspace\quakedev\wad\prototype_all_1_3.wad"
 }
 // entity 19
 {
