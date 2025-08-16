@@ -1,0 +1,728 @@
+5
+cube_dm_freestyle_____kills:__0/__0____
+4097.000000
+100.000000
+0.000000
+25.000000
+0.000000
+0.000000
+0.000000
+1.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+1
+cube_dm_freestyle
+76.124136
+m
+mmnmmommommnonmmonqnmmo
+abcdefghijklmnopqrstuvwxyzyxwvutsrqponmlkjihgfedcba
+mmmmmaaaaammmmmaaaaaabcdefgabcdefg
+mamamamamama
+jklmnopqrstuvwxyzyxwvutsrqponmlkj
+nmonqnmomnmomomno
+mmmaaaabcdefgmmmmaaaammmaamm
+mmmaaammmaaammmabcdefaaaammmmabcdefmmmaaaa
+aaaaaaaazzzzzzzz
+mmamammmmammamamaaamammma
+abcdefghijklmnopqrrqponmlkjihgfedcba
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+a
+{
+"self" "1"
+"other" "0"
+"world" "0"
+"time" "76.109993"
+"frametime" "0.014141"
+"force_retouch" "0.000000"
+"mapname" "cube_dm_freestyle"
+"deathmatch" "0.000000"
+"coop" "0.000000"
+"teamplay" "0.000000"
+"serverflags" "0.000000"
+"total_secrets" "0.000000"
+"total_monsters" "0.000000"
+"found_secrets" "0.000000"
+"killed_monsters" "0.000000"
+"parm1" "4097.000000"
+"parm2" "100.000000"
+"parm3" "0.000000"
+"parm4" "25.000000"
+"parm5" "0.000000"
+"parm6" "0.000000"
+"parm7" "0.000000"
+"parm8" "1.000000"
+"parm9" "0.000000"
+"parm10" "0.000000"
+"parm11" "0.000000"
+"parm12" "0.000000"
+"parm13" "0.000000"
+"parm14" "0.000000"
+"parm15" "0.000000"
+"parm16" "0.000000"
+"v_forward_x" "-0.529136"
+"v_forward_y" "0.700878"
+"v_forward_z" "-0.478315"
+"v_up_x" "-0.288200"
+"v_up_y" "0.381741"
+"v_up_z" "0.878188"
+"v_right_x" "0.798095"
+"v_right_y" "0.602531"
+"v_right_z" "-0.000000"
+"trace_allsolid" "0.000000"
+"trace_startsolid" "0.000000"
+"trace_fraction" "0.000000"
+"trace_endpos_x" "0.000000"
+"trace_endpos_y" "0.000000"
+"trace_endpos_z" "0.000000"
+"trace_plane_normal_x" "0.000000"
+"trace_plane_normal_y" "0.000000"
+"trace_plane_normal_z" "0.000000"
+"trace_plane_dist" "0.000000"
+"trace_ent" "0"
+"trace_inopen" "0.000000"
+"trace_inwater" "0.000000"
+"msg_entity" "0"
+"VEC_ORIGIN_x" "0.000000"
+"VEC_ORIGIN_y" "0.000000"
+"VEC_ORIGIN_z" "0.000000"
+"VEC_HULL_MIN_x" "-16.000000"
+"VEC_HULL_MIN_y" "-16.000000"
+"VEC_HULL_MIN_z" "-24.000000"
+"VEC_HULL_MAX_x" "16.000000"
+"VEC_HULL_MAX_y" "16.000000"
+"VEC_HULL_MAX_z" "32.000000"
+"VEC_HULL2_MIN_x" "-32.000000"
+"VEC_HULL2_MIN_y" "-32.000000"
+"VEC_HULL2_MIN_z" "-24.000000"
+"VEC_HULL2_MAX_x" "32.000000"
+"VEC_HULL2_MAX_y" "32.000000"
+"VEC_HULL2_MAX_z" "64.000000"
+"movedist" "0.000000"
+"gameover" "0.000000"
+"string_null" ""
+"empty_float" "0.000000"
+"newmis" "0"
+"activator" "1"
+"damage_attacker" "0"
+"framecount" "5284.000000"
+"skill" "1.000000"
+"enemy_vis" "0.000000"
+"enemy_infront" "0.000000"
+"enemy_range" "0.000000"
+"enemy_yaw" "0.000000"
+"current_yaw" "0.000000"
+"sight_entity" "0"
+"sight_entity_time" "0.000000"
+"multi_ent" "0"
+"multi_damage" "0.000000"
+"lastspawn" "0"
+"bodyque_head" "2"
+"modelindex_eyes" "11.000000"
+"modelindex_player" "10.000000"
+"intermission_running" "0.000000"
+"intermission_exittime" "0.000000"
+"nextmap" ""
+"stemp" "0"
+"otemp" "0"
+"s" "43"
+"old" "0"
+"le1" "0"
+"le2" "0"
+"lightning_end" "0.000000"
+"hknight_type" "0.000000"
+"shub" "0"
+}
+{ // #0
+"modelindex" "1.000000"
+"movetype" "7.000000"
+"solid" "4.000000"
+"classname" "worldspawn"
+"model" "maps/cube_dm_freestyle.bsp"
+"wad" "E:\y_Workspace\uakedev\ad\rototype_1_2.wad;E:\y_Workspace\uakedev\ad\TART.WAD;C:\uake-leveldesign-workspace\ads\d1.wad;C:\uake-leveldesign-workspace\ads\rototype_all_1_3.wad"
+}
+{ // #1
+"modelindex" "10.000000"
+"absmin" "-980.186401 282.995178 371.031250"
+"absmax" "-946.186401 316.995178 429.031250"
+"movetype" "3.000000"
+"solid" "3.000000"
+"origin" "-963.186401 299.995178 396.031250"
+"oldorigin" "-963.644409 299.995178 399.171539"
+"velocity" "32.391510 0.000000 0.000000"
+"angles" "-9.525146 127.051392 -0.157235"
+"classname" "player"
+"model" "progs/player.mdl"
+"frame" "6.000000"
+"mins" "-16.000000 -16.000000 -24.000000"
+"maxs" "16.000000 16.000000 32.000000"
+"size" "32.000000 32.000000 56.000000"
+"think" "player_run"
+"nextthink" "76.193428"
+"health" "95.000000"
+"weapon" "64.000000"
+"weaponmodel" "progs/v_light.mdl"
+"currentammo" "15.000000"
+"ammo_shells" "25.000000"
+"ammo_rockets" "25.000000"
+"ammo_cells" "15.000000"
+"items" "6241.000000"
+"takedamage" "2.000000"
+"view_ofs" "0.000000 0.000000 22.000000"
+"v_angle" "28.575439 127.051392 0.000000"
+"netname" "player"
+"flags" "4616.000000"
+"colormap" "1.000000"
+"team" "1.000000"
+"max_health" "100.000000"
+"teleport_time" "69.729088"
+"watertype" "-1.000000"
+"noise" "player/pain4.wav"
+"th_pain" "player_pain"
+"th_die" "PlayerDie"
+"walkframe" "1.000000"
+"attack_finished" "1.278443"
+"pain_finished" "52.471802"
+"air_finished" "88.109993"
+"deathtype" "falling"
+"dmg" "2.000000"
+}
+{ // #2
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "3"
+}
+{ // #3
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "4"
+}
+{ // #4
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "5"
+}
+{ // #5
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "2"
+}
+{ // #6
+"absmin" "3.000000 -1.000000 539.000000"
+"absmax" "5.000000 1.000000 541.000000"
+"origin" "4.000000 0.000000 540.000000"
+"classname" "info_player_start"
+}
+{ // #7
+"absmin" "-470.000000 -64.000000 573.000000"
+"absmax" "-468.000000 -62.000000 575.000000"
+"origin" "-469.000000 -63.000000 574.000000"
+"classname" "info_teleport_destination"
+"model" ""
+"targetname" "trigger_teleport"
+}
+{ // #8
+"absmin" "859.000000 315.000000 379.000000"
+"absmax" "865.000000 373.000000 465.000000"
+"solid" "1.000000"
+"classname" "trigger_teleport"
+"model" ""
+"mins" "860.000000 316.000000 380.000000"
+"maxs" "864.000000 372.000000 464.000000"
+"size" "4.000000 56.000000 84.000000"
+"touch" "teleport_touch"
+"use" "teleport_use"
+"target" "tdest04"
+}
+{ // #9
+"absmin" "859.000000 -413.000000 379.000000"
+"absmax" "865.000000 -355.000000 465.000000"
+"solid" "1.000000"
+"classname" "trigger_teleport"
+"model" ""
+"mins" "860.000000 -412.000000 380.000000"
+"maxs" "864.000000 -356.000000 464.000000"
+"size" "4.000000 56.000000 84.000000"
+"touch" "teleport_touch"
+"use" "teleport_use"
+"target" "tdest02"
+}
+{ // #10
+"absmin" "-961.000000 -413.000000 379.000000"
+"absmax" "-955.000000 -355.000000 465.000000"
+"solid" "1.000000"
+"classname" "trigger_teleport"
+"model" ""
+"mins" "-960.000000 -412.000000 380.000000"
+"maxs" "-956.000000 -356.000000 464.000000"
+"size" "4.000000 56.000000 84.000000"
+"touch" "teleport_touch"
+"use" "teleport_use"
+"target" "tdest01"
+}
+{ // #11
+"absmin" "-961.000000 323.000000 379.000000"
+"absmax" "-955.000000 381.000000 465.000000"
+"solid" "1.000000"
+"classname" "trigger_teleport"
+"model" ""
+"mins" "-960.000000 324.000000 380.000000"
+"maxs" "-956.000000 380.000000 464.000000"
+"size" "4.000000 56.000000 84.000000"
+"touch" "teleport_touch"
+"use" "teleport_use"
+"target" "tdest03"
+}
+{ // #12
+"absmin" "15.000000 -929.000000 531.000000"
+"absmax" "17.000000 -927.000000 533.000000"
+"origin" "16.000000 -928.000000 532.000000"
+"angles" "0.000000 90.000000 0.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #13
+"absmin" "7.000000 -921.000000 395.000000"
+"absmax" "9.000000 -919.000000 397.000000"
+"origin" "8.000000 -920.000000 396.000000"
+"angles" "0.000000 90.000000 0.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #14
+"absmin" "7.000000 959.000000 531.000000"
+"absmax" "9.000000 961.000000 533.000000"
+"origin" "8.000000 960.000000 532.000000"
+"angles" "0.000000 270.000000 0.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #15
+"absmin" "15.000000 991.000000 395.000000"
+"absmax" "17.000000 993.000000 397.000000"
+"origin" "16.000000 992.000000 396.000000"
+"angles" "0.000000 270.000000 0.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #16
+"modelindex" "36.000000"
+"absmin" "-79.000000 1.000000 108.031250"
+"absmax" "-17.000000 63.000000 164.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "-48.000000 32.000000 132.031250"
+"classname" "item_artifact_super_damage"
+"model" "progs/quaddama.mdl"
+"mins" "-16.000000 -16.000000 -24.000000"
+"maxs" "16.000000 16.000000 32.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "powerup_touch"
+"think" "PlaceItem"
+"items" "4194304.000000"
+"netname" "Quad Damage"
+"flags" "768.000000"
+"noise" "items/damage.wav"
+"mdl" "progs/quaddama.mdl"
+}
+{ // #17
+"absmin" "835.000000 -385.000000 546.000000"
+"absmax" "837.000000 -383.000000 548.000000"
+"origin" "836.000000 -384.000000 547.000000"
+"classname" "info_teleport_destination"
+"model" ""
+"targetname" "tdest02"
+"mangle" "0.000000 180.000000 0.000000"
+}
+{ // #18
+"absmin" "-941.000000 -385.000000 546.000000"
+"absmax" "-939.000000 -383.000000 548.000000"
+"origin" "-940.000000 -384.000000 547.000000"
+"classname" "info_teleport_destination"
+"model" ""
+"targetname" "tdest01"
+}
+{ // #19
+"absmin" "-933.000000 343.000000 546.000000"
+"absmax" "-931.000000 345.000000 548.000000"
+"origin" "-932.000000 344.000000 547.000000"
+"classname" "info_teleport_destination"
+"model" ""
+"targetname" "tdest03"
+"wad" "E:\y_Workspace\uakedev\ad\rototype_1_2.wad;E:\y_Workspace\uakedev\ad\TART.WAD;C:\uake-leveldesign-workspace\ads\d1.wad;C:\uake-leveldesign-workspace\ads\rototype_all_1_3.wad;E:\y_Workspace\uakedev\ad\rototype_all_1_3.wad"
+}
+{ // #20
+"absmin" "847.000000 347.000000 534.000000"
+"absmax" "849.000000 349.000000 536.000000"
+"origin" "848.000000 348.000000 535.000000"
+"classname" "info_teleport_destination"
+"model" ""
+"targetname" "tdest04"
+"mangle" "0.000000 180.000000 0.000000"
+}
+{ // #21
+"absmin" "831.000000 607.000000 918.000000"
+"absmax" "833.000000 609.000000 920.000000"
+"origin" "832.000000 608.000000 919.000000"
+"classname" "info_teleport_destination"
+"model" ""
+"targetname" "tdest05"
+"mangle" "0.000000 180.000000 0.000000"
+}
+{ // #22
+"absmin" "-1.000000 79.000000 47.000000"
+"absmax" "881.000000 1041.000000 57.000000"
+"solid" "1.000000"
+"classname" "trigger_teleport"
+"model" ""
+"mins" "0.000000 80.000000 48.000000"
+"maxs" "880.000000 1040.000000 56.000000"
+"size" "880.000000 960.000000 8.000000"
+"touch" "teleport_touch"
+"use" "teleport_use"
+"target" "tdest05"
+}
+{ // #23
+"absmin" "-1.000000 -993.000000 47.000000"
+"absmax" "881.000000 -15.000000 57.000000"
+"solid" "1.000000"
+"classname" "trigger_teleport"
+"model" ""
+"mins" "0.000000 -992.000000 48.000000"
+"maxs" "880.000000 -16.000000 56.000000"
+"size" "880.000000 976.000000 8.000000"
+"touch" "teleport_touch"
+"use" "teleport_use"
+"target" "tdest06"
+}
+{ // #24
+"absmin" "831.000000 -513.000000 918.000000"
+"absmax" "833.000000 -511.000000 920.000000"
+"origin" "832.000000 -512.000000 919.000000"
+"classname" "info_teleport_destination"
+"model" ""
+"targetname" "tdest06"
+"mangle" "0.000000 180.000000 0.000000"
+}
+{ // #25
+"absmin" "-981.000000 -989.000000 47.000000"
+"absmax" "-95.000000 -15.000000 57.000000"
+"solid" "1.000000"
+"classname" "trigger_teleport"
+"model" ""
+"mins" "-980.000000 -988.000000 48.000000"
+"maxs" "-96.000000 -16.000000 56.000000"
+"size" "884.000000 972.000000 8.000000"
+"touch" "teleport_touch"
+"use" "teleport_use"
+"target" "tdest07"
+}
+{ // #26
+"absmin" "-929.000000 -505.000000 918.000000"
+"absmax" "-927.000000 -503.000000 920.000000"
+"origin" "-928.000000 -504.000000 919.000000"
+"classname" "info_teleport_destination"
+"model" ""
+"targetname" "tdest07"
+}
+{ // #27
+"absmin" "-981.000000 79.000000 47.000000"
+"absmax" "-95.000000 1041.000000 57.000000"
+"solid" "1.000000"
+"classname" "trigger_teleport"
+"model" ""
+"mins" "-980.000000 80.000000 48.000000"
+"maxs" "-96.000000 1040.000000 56.000000"
+"size" "884.000000 960.000000 8.000000"
+"touch" "teleport_touch"
+"use" "teleport_use"
+"target" "tdest08"
+}
+{ // #28
+"absmin" "-913.000000 599.000000 918.000000"
+"absmax" "-911.000000 601.000000 920.000000"
+"origin" "-912.000000 600.000000 919.000000"
+"classname" "info_teleport_destination"
+"model" ""
+"targetname" "tdest08"
+}
+{ // #29
+"modelindex" "37.000000"
+"absmin" "-31.000000 465.000000 508.031250"
+"absmax" "31.000000 527.000000 564.031250"
+"movetype" "6.000000"
+"origin" "0.000000 496.000000 508.031250"
+"classname" "weapon_rocketlauncher"
+"mins" "-16.000000 -16.000000 0.000000"
+"maxs" "16.000000 16.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "weapon_touch"
+"think" "SUB_regen"
+"weapon" "3.000000"
+"netname" "Rocket Launcher"
+"flags" "768.000000"
+"mdl" "progs/g_rock2.mdl"
+}
+{ // #30
+"modelindex" "37.000000"
+"absmin" "-47.000000 -527.000000 508.031250"
+"absmax" "15.000000 -465.000000 564.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "-16.000000 -496.000000 508.031250"
+"classname" "weapon_rocketlauncher"
+"model" "progs/g_rock2.mdl"
+"mins" "-16.000000 -16.000000 0.000000"
+"maxs" "16.000000 16.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "weapon_touch"
+"think" "PlaceItem"
+"weapon" "3.000000"
+"netname" "Rocket Launcher"
+"flags" "768.000000"
+"mdl" "progs/g_rock2.mdl"
+}
+{ // #31
+"modelindex" "38.000000"
+"absmin" "-15.000000 577.000000 796.031250"
+"absmax" "47.000000 639.000000 852.031250"
+"movetype" "6.000000"
+"origin" "16.000000 608.000000 796.031250"
+"classname" "weapon_lightning"
+"mins" "-16.000000 -16.000000 0.000000"
+"maxs" "16.000000 16.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "weapon_touch"
+"think" "SUB_regen"
+"weapon" "3.000000"
+"netname" "Thunderbolt"
+"flags" "768.000000"
+"mdl" "progs/g_light.mdl"
+}
+{ // #32
+"modelindex" "38.000000"
+"absmin" "-15.000000 -543.000000 796.031250"
+"absmax" "47.000000 -481.000000 852.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "16.000000 -512.000000 796.031250"
+"classname" "weapon_lightning"
+"model" "progs/g_light.mdl"
+"mins" "-16.000000 -16.000000 0.000000"
+"maxs" "16.000000 16.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "weapon_touch"
+"think" "PlaceItem"
+"weapon" "3.000000"
+"netname" "Thunderbolt"
+"flags" "768.000000"
+"mdl" "progs/g_light.mdl"
+}
+{ // #33
+"absmin" "31.000000 -929.000000 819.000000"
+"absmax" "33.000000 -927.000000 821.000000"
+"origin" "32.000000 -928.000000 820.000000"
+"angles" "0.000000 90.000000 0.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #34
+"absmin" "23.000000 959.000000 819.000000"
+"absmax" "25.000000 961.000000 821.000000"
+"origin" "24.000000 960.000000 820.000000"
+"angles" "0.000000 270.000000 0.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #35
+"modelindex" "39.000000"
+"absmin" "-31.000000 1.000000 796.031250"
+"absmax" "31.000000 63.000000 852.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "0.000000 32.000000 796.031250"
+"classname" "item_armorInv"
+"model" "progs/armor.mdl"
+"skin" "2.000000"
+"mins" "-16.000000 -16.000000 0.000000"
+"maxs" "16.000000 16.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "armor_touch"
+"think" "PlaceItem"
+"flags" "768.000000"
+"mdl" "progs/armor.mdl"
+}
+{ // #36
+"modelindex" "40.000000"
+"absmin" "-31.000000 193.000000 508.031250"
+"absmax" "31.000000 255.000000 564.031250"
+"movetype" "6.000000"
+"origin" "-16.000000 208.000000 508.031250"
+"classname" "item_rockets"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "ammo_touch"
+"think" "SUB_regen"
+"weapon" "3.000000"
+"netname" "rockets"
+"flags" "768.000000"
+"spawnflags" "1.000000"
+"mdl" "maps/b_rock1.bsp"
+"aflag" "10.000000"
+}
+{ // #37
+"modelindex" "40.000000"
+"absmin" "-31.000000 -271.000000 508.031250"
+"absmax" "31.000000 -209.000000 564.031250"
+"movetype" "6.000000"
+"origin" "-16.000000 -256.000000 508.031250"
+"classname" "item_rockets"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "ammo_touch"
+"think" "SUB_regen"
+"weapon" "3.000000"
+"netname" "rockets"
+"flags" "768.000000"
+"spawnflags" "1.000000"
+"mdl" "maps/b_rock1.bsp"
+"aflag" "10.000000"
+}
+{ // #38
+"modelindex" "40.000000"
+"absmin" "-31.000000 193.000000 796.031250"
+"absmax" "31.000000 255.000000 852.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "-16.000000 208.000000 796.031250"
+"classname" "item_rockets"
+"model" "maps/b_rock1.bsp"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "ammo_touch"
+"think" "PlaceItem"
+"weapon" "3.000000"
+"netname" "rockets"
+"flags" "768.000000"
+"spawnflags" "1.000000"
+"mdl" "maps/b_rock1.bsp"
+"aflag" "10.000000"
+}
+{ // #39
+"modelindex" "40.000000"
+"absmin" "-31.000000 -271.000000 796.031250"
+"absmax" "31.000000 -209.000000 852.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "-16.000000 -256.000000 796.031250"
+"classname" "item_rockets"
+"model" "maps/b_rock1.bsp"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "ammo_touch"
+"think" "PlaceItem"
+"weapon" "3.000000"
+"netname" "rockets"
+"flags" "768.000000"
+"spawnflags" "1.000000"
+"mdl" "maps/b_rock1.bsp"
+"aflag" "10.000000"
+}
+{ // #40
+"modelindex" "41.000000"
+"absmin" "-79.000000 -767.000000 88.031250"
+"absmax" "-17.000000 -705.000000 144.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "-64.000000 -752.000000 88.031250"
+"classname" "item_health"
+"model" "maps/b_bh25.bsp"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "health_touch"
+"think" "PlaceItem"
+"flags" "768.000000"
+"noise" "items/health1.wav"
+"mdl" "maps/b_bh25.bsp"
+"healamount" "25.000000"
+"healtype" "1.000000"
+}
+{ // #41
+"modelindex" "41.000000"
+"absmin" "-95.000000 785.000000 88.031250"
+"absmax" "-33.000000 847.000000 144.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "-80.000000 800.000000 88.031250"
+"classname" "item_health"
+"model" "maps/b_bh25.bsp"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "health_touch"
+"think" "PlaceItem"
+"flags" "768.000000"
+"noise" "items/health1.wav"
+"mdl" "maps/b_bh25.bsp"
+"healamount" "25.000000"
+"healtype" "1.000000"
+}
+{ // #42
+}
+{ // #43
+}
+{ // #44
+}
+// 45 edicts
