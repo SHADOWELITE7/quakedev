@@ -35,8 +35,7 @@
               "title": "teleport_destination"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f0b0aef4b7ce684",
+  "active": "1d5173fd965ce2d1",
   "lastOpenFiles": [
-    "Maps/Multiplayer/Cube DM.md",
     "Notes/teleport_destination.md",
+    "Maps/Multiplayer/Cube DM.md",
     "Notes",
     "Untitled.md",
     "Issues/Teleport Triggers not working.md",
