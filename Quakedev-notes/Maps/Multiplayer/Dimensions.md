@@ -1,0 +1,11 @@
+# Todo list
+- [x] Must be Grid 4 in TrenchBroom
+- [ ] Create Rooms (All are disconnected from each other)
+	- [ ] 1st Room
+	- [ ] 2nd Room
+	- [ ] 3rd Room
+	- [ ] 4th Room
+		- [ ] Each Room must have a different theme
+- [ ] Create Slipgates for each room
+	- [ ] Have each Slipgate connected to each room
+- [ ] 
