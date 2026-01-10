@@ -1,23 +1,23 @@
 ---- qbsp / ericw-tools v0.18.1-32-g6660c5f ----
-Input file: dimensions.map
+Input file: dimensions-compile.map
 Output file: dimensions.bsp
 
 ---- LoadMapFile ----
-line 6: Unrecognised string escape - \M
-line 6: Unrecognised string escape - \q
-line 6: Unrecognised string escape - \w
-line 6: Unrecognised string escape - \p
-line 6: Unrecognised string escape - \M
-line 6: Unrecognised string escape - \q
-line 6: Unrecognised string escape - \w
-line 6: Unrecognised string escape - \S
-line 6: Unrecognised string escape - \M
-line 6: Unrecognised string escape - \q
-line 6: Unrecognised string escape - \w
-line 6: Unrecognised string escape - \p
+line 4: Unrecognised string escape - \M
+line 4: Unrecognised string escape - \q
+line 4: Unrecognised string escape - \w
+line 4: Unrecognised string escape - \p
+line 4: Unrecognised string escape - \M
+line 4: Unrecognised string escape - \q
+line 4: Unrecognised string escape - \w
+line 4: Unrecognised string escape - \S
+line 4: Unrecognised string escape - \M
+line 4: Unrecognised string escape - \q
+line 4: Unrecognised string escape - \w
+line 4: Unrecognised string escape - \p
 *** WARNING 06: No info_player_deathmatch entities in level
-          198 faces
-           33 brushes
+          210 faces
+           35 brushes
             2 entities
             2 unique texnames
            12 texinfo
@@ -27,26 +27,26 @@ Opened WAD: E:\My_Workspace\quakedev\wad\START.WAD
 Opened WAD: E:\My_Workspace\quakedev\wad\prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-           33 brushes
-           42 planes
+           35 brushes
+           45 planes
 ---- CSGFaces ----
-          198 brushfaces
-          189 csgfaces
-          180 mergedfaces
+          210 brushfaces
+          200 csgfaces
+          189 mergedfaces
 ---- SolidBSP ----
-          207 split nodes
+          204 split nodes
            81 solid leafs
-          113 empty leafs
+          110 empty leafs
            14 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-          393 leaffaces
-          367 nodefaces
+          404 leaffaces
+          377 nodefaces
 ---- Portalize ----
-          127 vis leafs
-          127 vis clusters
+          124 vis leafs
+          124 vis clusters
           303 vis portals
 ---- FillOutside ----
 *** WARNING 10: Reached occupant at (8 -8 40), no filling performed.
@@ -60,20 +60,20 @@ Processing hull 2...
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote dimensions.bsp
-          117 planes             2340
-          407 vertexes           4884
-          207 nodes              4968
+          130 planes             2600
+          426 vertexes           5112
+          204 nodes              4896
             7 texinfo             280
-          367 faces              7340
-          489 clipnodes          3912
-          128 leafs              3584
-          393 marksurfaces        786
-         1468 surfedges          5872
-          972 edges              3888
+          377 faces              7540
+          477 clipnodes          3816
+          125 leafs              3500
+          404 marksurfaces        808
+         1508 surfedges          6032
+         1003 edges              4012
             2 textures           5940
               lightdata             0
               visdata               0
               entdata             249
 
-0.064 seconds elapsed
-Peak memory usage: 2284842 (2.2M)
+0.017 seconds elapsed
+Peak memory usage: 2322412 (2.2M)

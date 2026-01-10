@@ -32,3 +32,4 @@ fly
 god
 impulse 9
 fly
+map dimensions 
