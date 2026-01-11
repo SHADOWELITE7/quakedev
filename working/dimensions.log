@@ -1,55 +1,55 @@
 ---- qbsp / ericw-tools v0.18.1-32-g6660c5f ----
-Input file: dimensions-compile.map
+Input file: dimensions.map
 Output file: dimensions.bsp
 
 ---- LoadMapFile ----
-line 4: Unrecognised string escape - \M
-line 4: Unrecognised string escape - \q
-line 4: Unrecognised string escape - \w
-line 4: Unrecognised string escape - \p
-line 4: Unrecognised string escape - \M
-line 4: Unrecognised string escape - \q
-line 4: Unrecognised string escape - \w
-line 4: Unrecognised string escape - \S
-line 4: Unrecognised string escape - \M
-line 4: Unrecognised string escape - \q
-line 4: Unrecognised string escape - \w
-line 4: Unrecognised string escape - \p
+line 6: Unrecognised string escape - \M
+line 6: Unrecognised string escape - \q
+line 6: Unrecognised string escape - \w
+line 6: Unrecognised string escape - \p
+line 6: Unrecognised string escape - \M
+line 6: Unrecognised string escape - \q
+line 6: Unrecognised string escape - \w
+line 6: Unrecognised string escape - \S
+line 6: Unrecognised string escape - \M
+line 6: Unrecognised string escape - \q
+line 6: Unrecognised string escape - \w
+line 6: Unrecognised string escape - \p
 *** WARNING 06: No info_player_deathmatch entities in level
-          210 faces
-           35 brushes
+          348 faces
+           58 brushes
             2 entities
-            2 unique texnames
-           12 texinfo
+            3 unique texnames
+           20 texinfo
 
 Opened WAD: E:\My_Workspace\quakedev\wad\prototype_all_1_3.wad
 Opened WAD: E:\My_Workspace\quakedev\wad\START.WAD
 Opened WAD: E:\My_Workspace\quakedev\wad\prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-           35 brushes
-           45 planes
+           58 brushes
+           80 planes
 ---- CSGFaces ----
-          210 brushfaces
-          200 csgfaces
-          189 mergedfaces
+          348 brushfaces
+          318 csgfaces
+          306 mergedfaces
 ---- SolidBSP ----
-          204 split nodes
-           81 solid leafs
-          110 empty leafs
-           14 water leafs
+          384 split nodes
+          135 solid leafs
+          215 empty leafs
+           35 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-          404 leaffaces
-          377 nodefaces
+          826 leaffaces
+          771 nodefaces
 ---- Portalize ----
-          124 vis leafs
-          124 vis clusters
-          303 vis portals
+          250 vis leafs
+          250 vis clusters
+          645 vis portals
 ---- FillOutside ----
-*** WARNING 10: Reached occupant at (8 -8 40), no filling performed.
+*** WARNING 10: Reached occupant at (1372 -240 40), no filling performed.
 Leak file written to dimensions.pts
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -60,20 +60,20 @@ Processing hull 2...
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote dimensions.bsp
-          130 planes             2600
-          426 vertexes           5112
-          204 nodes              4896
-            7 texinfo             280
-          377 faces              7540
-          477 clipnodes          3816
-          125 leafs              3500
-          404 marksurfaces        808
-         1508 surfedges          6032
-         1003 edges              4012
-            2 textures           5940
+          225 planes             4500
+          886 vertexes          10632
+          384 nodes              9216
+           10 texinfo             400
+          771 faces             15420
+          908 clipnodes          7264
+          251 leafs              7028
+          826 marksurfaces       1652
+         3084 surfedges         12336
+         2035 edges              8140
+            3 textures          11872
               lightdata             0
               visdata               0
-              entdata             249
+              entdata             268
 
-0.017 seconds elapsed
-Peak memory usage: 2322412 (2.2M)
+0.079 seconds elapsed
+Peak memory usage: 4426460 (4.2M)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/Multiplayer/Dimensions.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dimensions"
+              "title": "Notes"
             }
           }
         ]
@@ -168,11 +168,12 @@
   },
   "active": "f474b9d0e9d04c8a",
   "lastOpenFiles": [
-    "Home.md",
     "Notes.md",
+    "Maps/Multiplayer/Dimensions.md",
+    "Notes/Merge ramps.md",
+    "Home.md",
     "Issues.md",
     "Maps/Multiplayer maps.md",
-    "Maps/Multiplayer/Dimensions.md",
     "Notes/Trenchbroom Compiler Setup.md",
     "Notes/Compiler in trenchbroom.md",
     "Notes/teleport_destination.md",
