@@ -1,2 +1,3 @@
 - [[singleplayer map 1]]
+- [[Quake 30th Anniversary Map]]
 - 
