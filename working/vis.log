@@ -1,7 +1,7 @@
 ---- vis / ericw-tools v0.18.1-32-g6660c5f ----
 running with 32 threads
 testlevel = 4
-LoadBSPFile: 'dimensions.bsp'
+LoadBSPFile: 'se730M1.bsp'
 BSP is version 29
-LoadPortals: couldn't read dimensions.prt
+LoadPortals: couldn't read se730M1.prt
 No vising performed.
